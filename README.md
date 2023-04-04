@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabricioRivera2021
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP/Laravel
+- 🌱 I’m currently learning React/Electron
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me on my email fabriciorivera2012@gmail.com
 
